@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gusanchefullstack/bookstore-fullstack.git"
+  },
+  "author": "gustavosanchezgalarza@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gusanchefullstack/bookstore-fullstack/issues"
+  },
+  "homepage": "https://github.com/gusanchefullstack/bookstore-fullstack#readme"
+}
